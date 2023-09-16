@@ -30,11 +30,17 @@ I use the Search Algorithms:
    basically we have to find the ALgorithm from the mention above which is the best for finding the optimal path .
 
    1)For Breadth First Search -- We have to use the queue as a fringe
+   
    2)Depth First Search --- we have stack as a fringe
+   
    3)Iterative Deepening Dept First Search -- we use stack but also the variable which use MAx depth to store and we tried it to minimise it.
+   
    4)uniform Cost Search -- we use the priority queue as a fringe which cost biased.
+   
    5)Greedy First Search --- we use the priority queue as a fringe which heuristic biased which is defined as number of elments not in there respective place in its sorted version.
+   
    6)A* Search -- also uses priority queue but the combination of the UCS and Greedy first search .
+   
    7)Hill climbing -- uses only a heuristic function .
 
    Then we see the Average length of the path of various Search we use.
