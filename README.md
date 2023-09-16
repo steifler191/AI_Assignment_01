@@ -2,7 +2,7 @@
 
 This repository contains code and related materials for AI Assignment 01.
 
-## Table of Contents
+## Table of Contents 
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
