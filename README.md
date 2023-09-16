@@ -50,7 +50,5 @@ you can highlight the mistake in implementing the queue.
 
 
 ## Acknowledgments
-
-If you'd like to acknowledge any contributions, libraries, or resources that were helpful in completing the assignment.
-and Dr. Yashaswi Verma For providing the Knowledge of the Above Algorithms because of which i was able to implement the code in python.
+I Thank to Dr. Yashaswi Verma For providing the Knowledge of the Above Algorithms because of which i was able to implement the code in python.
 
